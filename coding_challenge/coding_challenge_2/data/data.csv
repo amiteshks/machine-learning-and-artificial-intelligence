@@ -1,0 +1,11 @@
+name,age,gender,department,salary,city,join_date
+
+Alice,28,Female,Engineering,80000,New York,2021-05-12
+
+Bob,35,Male,HR,60000,,2020-08-19
+
+Charlie,22,Male,Marketing,50000,Los Angeles,2022-01-15
+
+Diana,45,Female,Engineering,95000,Chicago,2019-03-11
+
+Eva,31,Female,HR,62000,San Francisco,2021-07-23
