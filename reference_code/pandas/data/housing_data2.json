@@ -1,0 +1,26 @@
+[{
+    "city": "Dublin",
+    "state": "CA",
+    "median_home_price_in_million": 1.5
+},
+  {
+    "city": "Palo Alto",
+    "state": "CA",
+    "median_home_price_in_million": 2.0
+  },
+  {
+    "city": "Fremont",
+    "state": "CA",
+    "median_home_price_in_million": 1.7
+  },
+  {
+    "city": "Reno",
+    "state": "NV",
+    "median_home_price_in_million": 0.8
+  },
+  {
+    "city": "Sunnyvale",
+    "state": "CA",
+    "median_home_price_in_million": 2.1
+  }
+]
